@@ -1,0 +1,7 @@
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\sistema de micelanea.exe
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\sistema de micelanea.dll
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\sistema de micelanea.deps.json
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\sistema de micelanea.runtimeconfig.json
+C:\Users\Engel\Downloads\micelanea\sistema de micelanea\sistema de micelanea\bin\Debug\netcoreapp3.1\publish\sistema de micelanea.pdb
